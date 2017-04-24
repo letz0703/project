@@ -1,4 +1,3 @@
 #FIX.TXT
 Whatever!!
-
-fix that  terrible bug.
+This is bug fix file!!!
